@@ -1,3 +1,4 @@
 install.packages("IRkernel")
-install.packages("tidyverse")  # Add any other packages you need
+install.packages("tidyverse")  
+install.packages("ggalluvial") # Add any other packages you need
 IRkernel::installspec()
